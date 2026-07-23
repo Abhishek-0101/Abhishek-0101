@@ -53,7 +53,6 @@ I'm a DevOps & Cloud Engineering enthusiast from 🇮🇳 India with a strong fo
 </p>
 
 ---
----
 
 ## 📊 GitHub Statistics
 
