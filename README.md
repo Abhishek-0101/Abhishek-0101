@@ -53,7 +53,37 @@ I'm a DevOps & Cloud Engineering enthusiast from 🇮🇳 India with a strong fo
 </p>
 
 ---
+---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishek-0101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-0101&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-0101&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-0101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-0101&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
 ## 🌐 Connect With Me
 
 <div align="center">
